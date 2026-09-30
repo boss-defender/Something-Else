@@ -18,4 +18,4 @@ https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora?not-for-
 
 **Uncensored editor in colab**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/Something-Else/blob/main/qwen_image_edit_plus_nsfw_lora.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boss-defender/Something-Else/blob/main/Qwen_Edit_2511_NSFW_LoRA_T4_Colab.ipynb)
